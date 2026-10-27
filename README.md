@@ -232,6 +232,9 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 - [Runway](https://runwayml.com) — Text-to-video and AI video editing in one tool.
 - [Synthesia](https://www.synthesia.io) — Generate and edit videos using AI-driven effects and cuts.
 - [Veed.io](https://www.veed.io) — Storyboard, generate, and refine videos with AI.
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) — Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) — Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) — Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ### Voice
 
